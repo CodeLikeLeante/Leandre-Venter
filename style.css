@@ -1,0 +1,58 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.3/font/bootstrap-icons.css");
+h1{
+    font-size: xx-large;
+color: dodgerblue;
+text-align: center;
+text-decoration: underline;
+}
+
+
+ h3{ text-decoration: underline;
+    color: rgb(158, 27, 27);
+    text-align: center;
+}
+
+img{ 
+ border-style: dashed;
+border-color: aqua;
+border-radius: 8px;
+}
+.image{     
+  text-align: center;
+}
+
+.page{
+    border-style: double;
+    border
+    background-color: 
+}
+.input{
+    border-style: double;
+    border-width: medium;
+    border-color:coral ;
+}
+
+form{
+    text-align: center;
+}
+
+.border{
+border-style: dashed;
+border-color: aquamarine;
+}
+
+.textr{
+    text-align: center;
+    border-style: double;
+    border-color: aquamarine;
+}
+
+body{
+background-color: darkslategray;
+    
+}
+
+.edit1{
+text-align: center;
+text-decoration-line: underline;
+}
